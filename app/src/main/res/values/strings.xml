@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListeProduits</string>
+
+    <string name="form_activity_title_create">Nouveau Produit</string>
+    <string name="form_activity_title_update">Editer Produit</string>
+    <string name="form_label_libelle">Libelle</string>
+    <string name="form_label_codeabar">Code à Barre</string>
+    <string name="form_label_prixvente">Prix de Vente</string>
+    <string name="form_switch_disponible">disponible</string>
+    <string name="form_switch_indisponible">indisponible</string>
+    <string name="form_label_camera">Camera</string>
+    <string name="form_label_gallerie">Gallerie</string>
+    <string name="form_label_terminer">Terminer</string>
+    <string name="main_toolbar_label_normal">Liste des Produits</string>
+    <string name="main_toolbar_label_select_single">1 Produit séléctionné</string>
+    <string name="main_toolbar_label_select_multiple">%NUMBER% Produits séléctionnés</string>
+    <string name="scan_activity_title">Scanner Code à Barre</string>
+    <string name="signature">Développée par Khalil Galalem</string>
+</resources>
